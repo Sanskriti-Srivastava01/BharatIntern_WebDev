@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Netflix</title>
+  <title>Sanskriti</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -30,7 +30,7 @@
 
   <section class="main-content">
     <div class="featured">
-      <h2 class="featured__title">Popular on Netflix</h2>
+      <h2 class="featured__title">Popular on Sanskriti</h2>
     </div>
     <div class="trending-now">
       <h2 class="trending-now__title">Trending Now</h2>
@@ -102,7 +102,6 @@ body {
 
 /* Hero */
 .hero {
-  background-image: url('netflix-background.jpg'); /* Add your background image */
   background-size: cover;
   background-position: center;
   height: 80vh;
